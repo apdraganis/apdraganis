@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 👨‍💻 I’m currently working as a software developer, writing code in C# and SQL.
-- 🌱 In my free time, I'm learning .NET MAUI and other .NET stuff.
+- 🌱 In my free time, I'm learning .NET MAUI and other .NET related stuff.
 - 💪🏼 Future Goals: Dive deeper into .NET and its frameworks.
 
 
