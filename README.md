@@ -1,7 +1,7 @@
 ### Hello World 👋
 
-- 👨‍💻 I’m currently studying Software Design (MSc) at the IT University of Copenhagen. Previously, I was working as a software developer, writing code in C# and SQL.
-- 🌱 In my free time, I'm learning .NET MAUI and other .NET related stuff.
+- 👨‍💻 Full Stack Software Developer, specializing in the .NET ecosystem and related technologies. I've build desktop, mobile, and web apps for enterprises.
+- 🌱 In my free time, I'm studying .NET MAUI and other .NET related stuff.
 - 💪🏼 Future Goals: Dive deeper into .NET and related technologies.
 
 
